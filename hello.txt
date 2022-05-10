@@ -13,4 +13,4 @@ hello atliang! hello git!
 hello atliang! hello git!
 hello atliang! hello git!
 hello atliang! hello git! master test
-hello atliang! hello git!
+hello atliang! hello git! hot-fix test 
